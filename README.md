@@ -3,7 +3,7 @@ From auto-layout tour (https://github.com/qilytquang/auto-layout)
 
 ### What did I learn at this project:
 * `Autolayout & project creation`
-* `Width, height, leading, trailing constaints`
+* `Width, height, leading, trailing constraints`
 * `UIPickerView`
 
 See requirements of the exercise: http://blog.devslopes.com/p/2557a81a-910d-48ec-a251-562319a3a47f/
